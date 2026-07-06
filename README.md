@@ -18,6 +18,6 @@ I've competed in and won **6 hackathons**, across everything from multi-agent AI
 - **Hobbies:** swimming, painting, robotics, competitive hackathons, building things
 
 ### Let's connect
-- 📫 [LinkedIn](www.linkedin.com/in/ruchika-jha-profile)
+- 📫 [www.linkedin.com/in/ruchika-jha-profile]
 - 🌐 [Portfolio](link)
 - ✉️ ruchika.jha@yahoo.com
