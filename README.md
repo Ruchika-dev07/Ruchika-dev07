@@ -8,7 +8,7 @@ My main tech stack is **Python, TypeScript, React, and Flutter**, with a growing
 
 I'm currently building **[Bridgr](https://app.bridgrtechnologies.com)**, an AI career intelligence platform that turns things like hackathon wins and GitHub repos into signal employers actually understand.
 
-I've competed in and won **6 hackathons**, across everything from multi-agent AI courtrooms to computer vision robotics pipelines, and have led **Husky Robotics** at Northeastern London, now 35+ members strong.
+I've competed in and won **6 hackathons**, across everything from multi-agent AI courtrooms to computer vision robotics pipelines, and have led **Husky Robotics** at Northeastern London.
 
 **Fun Facts:**
 - I've been an International Math Olympiad gold medalist and National KenKen champion
