@@ -21,3 +21,7 @@ I've competed in and won **6 hackathons**, across everything from multi-agent AI
 - 📫 [www.linkedin.com/in/ruchika-jha-profile]
 - 🌐 [Portfolio](link)
 - ✉️ ruchika.jha@yahoo.com
+
+## Currently
+- 🎓 CS Honors @ Northeastern University (Computer Engineering minor)
+- 🛰️ Exploring AI, robotics, and space systems
